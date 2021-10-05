@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tinpingi.github.io/csb-vzm54/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://tinpingi.github.io/csb-vzm54/static/js/main.34baeaba.chunk.js",
+    "main.js.map": "https://tinpingi.github.io/csb-vzm54/static/js/main.34baeaba.chunk.js.map",
+    "runtime-main.js": "https://tinpingi.github.io/csb-vzm54/static/js/runtime-main.4b621d9e.js",
+    "runtime-main.js.map": "https://tinpingi.github.io/csb-vzm54/static/js/runtime-main.4b621d9e.js.map",
+    "static/js/2.0aae0f4f.chunk.js": "https://tinpingi.github.io/csb-vzm54/static/js/2.0aae0f4f.chunk.js",
+    "static/js/2.0aae0f4f.chunk.js.map": "https://tinpingi.github.io/csb-vzm54/static/js/2.0aae0f4f.chunk.js.map",
+    "index.html": "https://tinpingi.github.io/csb-vzm54/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://tinpingi.github.io/csb-vzm54/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.0aae0f4f.chunk.js.LICENSE.txt": "https://tinpingi.github.io/csb-vzm54/static/js/2.0aae0f4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b621d9e.js",
+    "static/js/2.0aae0f4f.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.34baeaba.chunk.js"
+  ]
+}
